@@ -219,17 +219,6 @@ img {
     }
 }
 
-/* .preview__sharers--active {
-    opacity: 1;
-    pointer-events: auto;
-} */
-
-/* @media screen and (min-width: 1024px) {
-    .preview__sharers--active {
-        transform: translate(calc(50% - 3rem - 15px), -20px);
-    }
-} */
-
 .preview__share {
     color: var(--grayish-blue);
     text-transform: uppercase;
